@@ -11,7 +11,7 @@
 
 ### Email: maximrugal.pro@gmail.com
 
-### LinkedIn: linkedin.com/in/maximrugal/
+### LinkedIn: linkedin.com/in/maximrugal
 
 ### GitHub: github.com/rugalek
 
@@ -56,10 +56,10 @@ Have expierence of 2 years verbal communication with German customers on my prev
 
 ## Summary
 
-Web applications and mobile apps – are my passion.
-My goal - to develop high quality, great and useful apps.
-Love to discover new features and use it in my job.
-I am purposeful and communicative, team player.
+Web applications and mobile apps – are my passion.  
+My goal - to develop high quality, great and useful apps.  
+Love to discover new features and use it in my job.  
+I am purposeful and communicative, team player.  
 Always strive for professional growth.
 
 ## Work expierence:
