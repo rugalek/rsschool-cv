@@ -2,6 +2,8 @@
 
 ## Front-end Developer JavaScript (React/Redux)
 
+![avatar](avatar.jpg)
+
 ### Phone:
 
 - +37529 8670008 BY
@@ -37,12 +39,19 @@ Have expierence of 2 years verbal communication with German customers on my prev
 ## Skills:
 
 • English B1 (text C1)
+
 • JavaScript ES6, TypeScript, JSX
+
 • HTML, HTML-5
+
 • CSS, SASS, BEM
+
 • Gulp
+
 • React , Redux , Saga
+
 • Git, Github
+
 • Bootstrap, Material UI
 
 ## Summary
