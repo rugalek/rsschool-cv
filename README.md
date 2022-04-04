@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rugalek.github.io/rsschool-cv/
